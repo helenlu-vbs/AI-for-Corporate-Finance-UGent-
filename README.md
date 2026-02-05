@@ -1,4 +1,4 @@
-**Click on the button below to run the code in Colab**
+**Run code to predict Seasoned Equity Offering in the next quarter in Google Colab**
 
 [![Run In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/AI-for-Corporate-Finance-UGent-/blob/main/AICF_classification_2026.ipynb)
 
